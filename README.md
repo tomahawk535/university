@@ -1,4 +1,4 @@
-# hello-world
+# universiy
 
 ## Project setup
 ```
